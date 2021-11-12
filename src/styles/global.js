@@ -20,6 +20,15 @@ export const GlobalStyle = createGlobalStyle`
         font-size: 100%;
         font: inherit;
         vertical-align: baseline;
+        font-family: 'Roboto', sans-serif;
+    }
+    h1{
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+    h2{
+        font-size: 1.1rem;
+        font-weight: bold;
     }
     /* HTML5 display-role reset for older browsers */
     article, aside, details, figcaption, figure, 

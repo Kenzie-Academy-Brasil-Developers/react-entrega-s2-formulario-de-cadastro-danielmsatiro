@@ -3,7 +3,7 @@ import { GlobalStyle } from "./styles/global";
 
 export const App = () => (
   <>
-    <GlobalStyle className="App"/>
+    <GlobalStyle />
     <Routes />
   </>
 );
